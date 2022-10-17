@@ -34,8 +34,7 @@ Huurwoning/CV_ketel_huurders_wat-kan-je-zelf-wat-laat-je-doen.pdf       |VB wat 
 
 
 + Energie Wet
-  Installatie_Energie/Energiewet_nov21_toel
-ichting.pdf    |E-wet nov-21 toelichting
+  Installatie_Energie/Energiewet_nov21_toelichting.pdf    |E-wet nov-21 toelichting
   Installatie_Energie/Energiewet_nov_21_artikelsgewijs_toelichting.pdf |E-wet nov-21 toelichting art
 
 + Distributie
@@ -65,7 +64,7 @@ Opslag/Praktijktest van een energieopslagsysteem.pdf                            
 
 + EnergieCafe M&M
 EnergieCafe M&M
-https://maasburen.nl/pagina/energiecafe  |Startpagina EnergieCafe
+Xhttps://maasburen.nl/pagina/energiecafe  |Startpagina EnergieCafe
 # https://us17.campaign-archive.com/?e=__test_email__&u=7a679dece95d11fb7ed9f9d78&id=699852dfa9  |NB2021-2
 
 + Woning Totaal
