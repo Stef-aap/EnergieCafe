@@ -1,0 +1,190 @@
+# this is comment
+# stop alle tekst in Tree.txt en run Jupyter  Generate_Index_html_02
+
++ Isolatie
+https://papagreen.org/tools/isolatiewaarden-in-lambda-rd-en-u-van-250-materialen/   |Isolatiewaarden op volgorde
+Isolatie/ecologisch-isoleren_kopersgids_van-isolatie-tot-afwerking-e-book.pdf       |Ecologisch Isoleren
+
++ Huurwoning
+Huurwoning/Corporaties worstelen met verduurzaming woningvoorraad.pdf   |Worstelen Verduurzaming
+Huurwoning/CV_ketel_huurders_wat-kan-je-zelf-wat-laat-je-doen.pdf       |VB wat mag met je CV
+
++Energie
+++Installatie
+  Installatie_Energie/SluipVerbruik.pdf     |SluipVerbruik
+  Installatie_Energie/Slimme Meter.pdf      |Slimme Meter Apps
+  https://www.homewizard.com/nl/p1-meter/   |Slimme Meter Life
+
++ Eigen Energiebedrijf
+  Installatie_Energie/Eigen EnergieBedrijf.pdf            |Eigen Energiebedrijf
+  Installatie_Energie/Whitepaper Slim Energie Delen - Energie Samen.pdf        |Energie Gemeenschap dec-21
+  Installatie_Energie/Webinar Slim Energie Delen.pptx                          |Energie Gemeenschap dec-21 (pptx)
+  Installatie_Energie/Meerdere energiecontracten op een aansluitpunt.pdf       |Meerdere aansluitingen
+  Xhttps://www.trouw.nl/duurzaamheid-economie/we-gaan-zonnestroom-verkopen-aan-de-buren-met-dank-aan-brussel~b990f779/   |Vincent verkoopt stroom
+  #Installatie_Energie/We gaan zonnestroom verkopen aan de buren, met dank aan Brussel.pdf                               |Vincent verkoopt stroom
+
++ HAAS  Heating As A Service
+  https://haasheat.com/    |HAAS Heating As A Service
+ #Installatie_Energie/Duurzaam wordt nu haalbaar en betaalbaar - HAASheat.pdf
+
+  https://haasheat.com/wp-content/uploads/2022/03/haasheat_-_heating_as_a_service_3-360p-1.mp4    |HAAS film
+
+  #https://www.duurzaam-beleggen.nl/2021/08/28/duurzame-doorbraak-hybride-warmtepompen-nu-als-variant-op-fietsplan/?utm_source=Portaal+Duurzaam+Financieel&utm_campaign=f53c630440-DuBel_Cons_EMAIL_CAMPAIGN&utm_medium=email&utm_term=0_cda11d0c06-f53c630440-281638929   |HAAS als fietsplan
+  Installatie_Energie/Duurzame doorbraak_ hybride warmtepompen nu als variant op fietsplan - Duurzaam Financieel.pdf   |HAAS als fietsplan
+
+
++ Energie Wet
+  Installatie_Energie/Energiewet_nov21_toel
+ichting.pdf    |E-wet nov-21 toelichting
+  Installatie_Energie/Energiewet_nov_21_artikelsgewijs_toelichting.pdf |E-wet nov-21 toelichting art
+
++ Distributie
+  Installatie_Energie/NetbeheerNL_Rapport-Bijlagen_A4_FC.pdf                   |E-Net 2030-2050
+  Installatie_Energie/EnergyNL2050_implementation and verification-final-16 oktober2020_titel pagina update 19-02.pdf  |Carbon Free Energy System
+  Installatie_Energie/energynl2050-refined-demand-and-generation-2050-final-v1-1-7juli2022.pdf                         |Carbon Free Energy System2
+  Installatie_Energie/KIVI_EnergyNL2050(dec2017)NLsamenvatting.pdf                                                     |Carbon Free Energy System3
+
++ Opwekking
+++ Zonnepanelen
+https://www.zonatlas.nl/start/     |Dak Potentieel
++  Houtstook
++  KernEnergie
+   Installatie_Energie/eRisk-Group_rapport_De-rol-van-kernenergie_20201202-1.pdf               |Rol van KernEnergie
+
+-
++ Opslag
+++ Accu
+Opslag/Slimme thuisbatterij waarmee je straks geld kunt verdienen - Bouwproducten.pdf    |Sessy ThuisBatterij
+Opslag/Praktijktest van een energieopslagsysteem.pdf                                     |PraktijkTest
++  Waterstof
+
+
+-
+-
+
+
++ EnergieCafe M&M
+EnergieCafe M&M
+https://maasburen.nl/pagina/energiecafe  |Startpagina EnergieCafe
+# https://us17.campaign-archive.com/?e=__test_email__&u=7a679dece95d11fb7ed9f9d78&id=699852dfa9  |NB2021-2
+
++ Woning Totaal
++ Woning DakIsolatie
++ Woning MuurIsolatie
++ Woning Glas
++ Woning VloerIsolatie
++ Woning Kieren
++ Installatie Verwarming
++ Installatie Koeling
+
+
++ Installatie Ventilatie
+Installatie_Ventilatie/Infiltratie en Ventilatie.pdf                            | Kieren en Ventilatie
+Installatie_Ventilatie/Het effect van luchtdichtheid op ventilatiesystemen.pdf  | Luchtdichtheid en Ventilatie
+
+
+
++ Actueel
+https://maasburen.nl/berichten/wat-zijn-onze-plannen-in-2021  |Plannen 2021
+Eigen EnergieBedrijf.pdf
+https://maasburen.nl/berichten/energievoucher-regeling-verlengd-tot-en-met-31-december-2021  |RRE Voucher 2020
+#https://maasburen.nl/berichten/energiebesparing-a-la-carte      |Energiebesparing a la carte
+#https://maasburen.nl/files/maasburen.nl/uploads/files/717174/A3placemat-paarsgroen_WEB.pdf  |Placemat
+Placemat
+https://maasburen.nl/berichten/onze-energiecoaches   |Energie-Coaches
+https://maasburen.nl/berichten/gevelvloerdak-isolatie-kortingactie-verlengd-tot-en-met-30-juni-2021  |Actie Isolatie
+https://maasburen.nl/berichten/glasisolatie-kortingactie-verlengd-tot-en-met-31-december-2021  |Actie Glas Verbetering
+https://maasburen.nl/berichten/zonnepanelen-kortingactie-verlengd-tot-en-met-december-2021   |Actie Zonnepanelen
+https://maasburen.nl/berichten/stookwijzer-1  |Stookwijzer
+
++Subsidie en Lening
+https://www.verbeterjehuis.nl/energiesubsidiewijzer/  |Alle Subsidies
+https://www.limburg.nl/@1665/duurzaam-thuis/  | Lening Duurzaam-Thuis
+https://maasburen.nl/berichten/update-van-seeh-subsidie  |SEEH Subsidie
+
++Overheid
+https://www.milieucentraal.nl/  | MilieuCentraal
+https://maasburen.nl/berichten/liggen-er-in-2030-ook-10-zonnepanelen-op-uw-dak  | Actie 10-Zonnepanelen 
+https://maasburen.nl/berichten/wilt-u-uw-dak-laten-isoleren   | DakIsolatie
+https://www.duurzaamwonenplus.nl/mookenmiddelaar/  | Loket (oud)
+https://www.tipmookenmiddelaar.nl/onderzoeksresultaten/07-08-2020/duurzaamheid | TIP Duurzaamheid MenM
+
++ RRE Voucher
+https://www.duurzaammookenmiddelaar.nl/  |Duurzaam MenM
+# https://energiecafemookenmiddelaar.sharepoint.com/sites/Energiecoaches/Gedeelde%20documenten/Forms/AllItems.aspx?id=%2Fsites%2FEnergiecoaches%2FGedeelde%20documenten%2FGeneral%2FA3placemat%2Dpaarsgroen%5FWEB%2Epdf&parent=%2Fsites%2FEnergiecoaches%2FGedeelde%20documenten%2FGeneral | Placemat
+Placemat
+https://www.hubo.nl/buisisolatie-voor-12mm-buis-1-meter  |18 Leiding Isolatie
+https://www.hubo.nl/rockwool-rockroof-sidefix-zolderisolatie-450x60x12cm  |39 Glaswol rol 12 cm
+https://www.hubo.nl/isover-glaswol-zolderisolatie-667x60x10cm  |40 Glaswol rol 10 cm
+https://www.hubo.nl/isover-glaswol-isolatieplaat-120x60x8cm-6-stuks  |41 Glaswol plaat 8 cm
+https://www.hubo.nl/cando-isolatietape-aluminium-50mmx50m  |42 Aluminium Tape
+https://www.hubo.nl/alecto-energiemeter-em-17  |45 kWh meter
+
++ E-Coach
+https://energiecafemookenmiddelaar.sharepoint.com/:w:/r/sites/Energiecoaches/_layouts/15/Doc.aspx?sourcedoc=%7B3878B548-08B0-4D9A-A1BA-478429614EF9%7D&file=6585KB%2051%20210113%20%20vs%203.docx&action=default&mobileredirect=true | Advies Template
+https://cvtuning.nl/  | CV Tuning
+# https://energiecafemookenmiddelaar.sharepoint.com/sites/Energiecoaches/Gedeelde%20documenten/Forms/AllItems.aspx?id=%2Fsites%2FEnergiecoaches%2FGedeelde%20documenten%2FElektra%5FVerbruik%2FSluipverbruik%2Epdf&parent=%2Fsites%2FEnergiecoaches%2FGedeelde%20documenten%2FElektra%5FVerbruik | SluipVerbruik
+SluipVerbruik
+
++ Achtergrond Info
+https://www.milieucentraal.nl/  | MilieuCentraal
+http://www.olino.org/articles/2016/12/12/energie-besparen-en-duurzamer-leven-begint-bij-jezelf/  | Olino
+https://maasburen.nl/berichten/stichting-energie-cafe  | EnergieCafe als stichting
+https://maasburen.nl/files/maasburen.nl/uploads/files/717174/Statuten%20stichting%20Energiecaf%C3%A9%20Mook%20en%20Middelaar.pdf  | Statuten
+http://duurzaamhees.nl/  | Duurzaam Hees
+# https://maasburen.nl/berichten/energievoucher-voor-duurzame-woningeigenaren | Voucher okt-2020
+
++  Energieverbruik
+# https://stef-aap.github.io/Duurzaam/SlimmeMeter%20Programmas.pdf   | Slimme Meter
+Slimme Meter
+https://maasburen.nl/berichten/totale-elektriciteitsverbruik-sinds-2015-gestegen | Electriciteit 2010-2019
+https://maasburen.nl/berichten/zonne-energie-in-mook-en-middelaar-op-de-goede-weg-maar-in-2019-trager-dan-2018  | ZonneEnerge 2019
+
+
+
++ Tools
+https://bouw-energie.be/nl-be/bereken/warmteverliesberekening  | WarmteVerlies Woning
+
++ RES
+# https://www.resnml.nl/media/2021-01/Samenvatting-ontwerp-RES-1.0.pdf  |RES 1.0 samenvatting
+RES Samenvatting
+Eigen EnergieBedrijf
+https://maasburen.nl/berichten/denk-mee-over-de-energieplannen-van-onze-regio  |Denk Mee
+# https://www.resnml.nl/media/2021-01/Ontwerp-RES-1.0.pdf   |RES 1.0
+RES-1
+https://maasburen.nl/berichten/onderzoek-in-de-ondergrond-voor-aardwarmte-3   | Aardwarmte
+https://maasburen.nl/berichten/waterenergie-biedt-beperkte-kansen-voor-mook-en-middelaar  | WaterEnergie
+https://dashboardlimburg.nl/energiedashboard/  |Energie Dashboard
+https://www.nmflimburg.nl/nieuws/nmf-limburg-presenteert-windmolenvisie/  |MilieuFederatie
+
++ Historie
+https://maasburen.nl/berichten/wat-hebben-we-in-2020-gedaan   |Resultaten 2020
+https://maasburen.nl/berichten/alsnog-molenhoekse-carin-janssen-in-briljant-as-woensdagavond  | Carin Janssen
+https://maasburen.nl/berichten/de-electrificatie-van-mook-en-middelaar  |Electrificatie M&M deel 1
+https://maasburen.nl/berichten/electrificatie-van-mook-en-middelaar-deel-2  |Electrificatie M&M deel 2
+https://maasburen.nl/berichten/electrificatie-van-mook-en-middelaar-deel-3-eindelijk-licht-in-middelaar  |Electrificatie M&M deel 3
+
++ Interessant
+https://maasburen.nl/pagina/energiecafe/menu/advies  | Advies
+# https://maasburen.nl/pagina/energiecafe/menu/meten-is-weten  | Meten is Weten
+https://maasburen.nl/pagina/energiecafe/menu/eenvoudige-besparingen  | Eenvoudige Besparingen
+https://maasburen.nl/pagina/energiecafe/menu/zonnepanelen | Zonnepaneel Actie
+https://maasburen.nl/files/maasburen.nl/uploads/files/717174/Zonnepanelen%20actie%202020.pdf | Zonnepaneel Presentatie
+https://maasburen.nl/pagina/energiecafe/menu/isolatie  | Isolatie Acties
+https://maasburen.nl/files/maasburen.nl/uploads/files/717174/20191031%20Informatiebijeenkomst%20Energiecafe%20over%20isolatie.pdf | Presentatie Isolatie 2019
+https://maasburen.nl/files/maasburen.nl/uploads/files/717174/20191031%20Duits%20Isolatie%20-%20Energiecafe%20Mook%20en%20Middelaar.pdf  | Presentatie Duits 2019
+
+# https://maasburen.nl/berichten/top-10-meest-gelezen-berichten-van-2020-op-maasburen
+# https://maasburen.nl/berichten/nationale-recycleweek-12-tot-18-oktober
+# https://maasburen.nl/berichten/oproep-aan-onze-bewoners-wordt-energiecoach
+# https://www.clusterwoningen.nl/woningen/de-rre/
+# https://www.youtube.com/watch?v=cFJJzNk9hu0   | Rockwool Schuin Dak
+# https://maasburen.nl/pagina/energiecafe/menu/isolatie-advies
+# https://maasburen.nl/pagina/energiecafe/menu/zonnepanelen-advies  | Zonnepaneel Actie
+# https://maasburen.nl/berichten/energie-advies-op-onze-website
+# https://maasburen.nl/berichten/1-miljoen-huizen-in-nederland-met-zonnepanelen
+# https://maasburen.nl/berichten/meld-je-aan-als-slimme-buur
+# https://maasburen.nl/berichten/enquete-over-verduurzaming
+# https://maasburen.nl/berichten/nu-energielabel-voor-woning-aanvragen-scheelt-veel-geld
+# https://maasburen.nl/berichten/subsidie-op-isolatiemaatregelen-verhoogd
+
