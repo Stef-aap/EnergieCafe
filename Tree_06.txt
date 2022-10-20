@@ -1,0 +1,219 @@
+# this is comment
+# stop alle tekst in Tree.txt en run Jupyter  Generate_Index_html_02
+
++Isolatie
+https://papagreen.org/tools/isolatiewaarden-in-lambda-rd-en-u-van-250-materialen/   |Isolatiewaarden op volgorde
+Isolatie/ecologisch-isoleren_kopersgids_van-isolatie-tot-afwerking-e-book.pdf       |Ecologisch Isoleren
+https://veerdonkbouw.nl/isoleren-en-energie-besparen/                               |Veerdonk
+https://cdn.thehuddle-aws.com/uploads/tenants/3883/202202/160830-klimaatbewust-isoleren_climatedeal_e-book.pdf   |Climatedeal Checklist
+
+++Kierdichting
+  Kieren/QV10_Lek_op_basis_CO2.pdf              |qv10 uit CO2
+  Kieren/Luchtdichtheid en ventilatiesysteem    |luchtdichtheid
+  Kieren/573b11_KLuchtdichtBouwenPraktijk       |Praktijk
+ +Dak Isolatie
+   Xhttps://www.milieucentraal.nl/energie-besparen/isoleren-en-besparen/zelf-dak-isoleren/   |Zelf Doen
+ +Muur Isolatie
+
+ +Glas en Kozijnen
+ +Vloer Isolatie
+  https://www.bouwtotaal.nl/2021/01/warmteverlies-door-vloeren-zwaar-onderschat   |Vloerisolatie Onderschat
+  https://www.renovatietotaal.nl/2022/05/09/praktijkonderzoek-naar-vloerverwarming-laat-belang-van-vloerisolatie-zien/  |Praktijk Onderzoek
+
+-
++Uitzoeken
+  Woning_Totaal/EnergieLabels_en_Werkelijk_EnergieVerbruik.pdf
+  Woning_Totaal/Rapport - Comfortbeleving in goed geinsoleerde woningen.pdf   |Comfortbeleving
+  Woning_Totaal/Handleiding Muts voor je huis 1.pdf
+  Woning_Totaal/Rapport-CO2-neutrale-renovatieconcepten-versie-1.2.pdf
+
++Verwarming
+++Warmtepomp
+ ++Algemeen
+  Verwarming/Het-bepalen-van-vermogens-in-woning-ISSO.pdf       |ISSO Vermogensbepaling
+  Verwarming/Nieuw collectief warmtepompsysteem voor wooncomplexen   |Collectieve Wamtepomp
+  Verwarming/Remeha-webinar-Kennismaking-hybride-warmtepompen-20-april-2020  |Remha Hybride
+ +Houtstook
+  Verwarming/Houtstook, weet u er het fijne(stof) van     |Houtstook de waarheid
+ +Airco
+  Verwarming/Warmtepomp_Propaan_Midea.pdf                                           |Midea Split Propaan
+  Verwarming/Onderzoekers integreren lucht_lucht-warmtepomp in geveldeel            |Airco in Gevel
+ +Lucht-Water
+ +Hybride
+  Xhttps://www.youtube.com/watch?v=QhA6LAYFYMo                         |KK:Hybride als Full Electric
+  Verwarming/Hybride_Warmtepomp_Eindrapportage-installatiemonitor.pdf  |Grote Parktijktest
+  Verwarming/Quatt_Crowdfunding haalt 2 miljoen euro op
+ +Ventilatie Warmtepomp
+  Xhttps://www.itecluchtreiniger.nl/keuzehulp/voor-thuis/lucht-verwarmen/gasloos-verwarmen-zonder-buitenunit   |Itec
+  Xhttps://www.itecluchtreiniger.nl/rinnova-20-vertical-warmteterugwinning-warmtepomp         |2.0 Rinnova
+  Xhttps://www.itecluchtreiniger.nl/mitsubishi-vl-50-balansventilatie-met-warmteterugwinning  |Mitsubishi VL-50
+  Xhttps://www.itecluchtreiniger.nl/mitsubishi-vl-100-ventilatie-met-warmteterugwinning       |Mitsubishi VL-100
+  Xhttps://www.itecluchtreiniger.nl/vents-micra-100-ventilatieunit-warmteterugwinning         |VENTS Micra 100 ERV
+
+-
+ +Infrarood
+  https://sargasso.nl/infraroodverwarming-effectiefste-weg-naar-aardgasvrij/   |IR aardgasvrij
+  https://krispijnbeek.nl/2021/11/27/dik-2-jaar-met-infraroodverwarming/       |2 jaar ervaring
+  https://sargasso.nl/dagtegengas-in-4-etappes-etappe-2-verwarmen-met-infraroodverwarming/  |Etappe 2
+ +CV ketel
+  Verwarming/Warmwater verschillen bij CW5-ketels steeds groter   |CW5 verschillen
+
+ +Afgifte Systeem
+  Xhttps://cvtuning.nl/  | CV Tuning
+
+ +Koeling
+  Koeling/KoelLadder.pdf
+
+
+-
++Ventilatie
+++Ventilatie Warmtepomp
+  Xhttps://www.itecluchtreiniger.nl/keuzehulp/voor-thuis/lucht-verwarmen/gasloos-verwarmen-zonder-buitenunit   |Itec
+  Xhttps://www.itecluchtreiniger.nl/rinnova-20-vertical-warmteterugwinning-warmtepomp         |2.0 Rinnova
+  Xhttps://www.itecluchtreiniger.nl/mitsubishi-vl-50-balansventilatie-met-warmteterugwinning  |Mitsubishi VL-50
+  Xhttps://www.itecluchtreiniger.nl/mitsubishi-vl-100-ventilatie-met-warmteterugwinning       |Mitsubishi VL-100
+  Xhttps://www.itecluchtreiniger.nl/vents-micra-100-ventilatieunit-warmteterugwinning         |VENTS Micra 100 ERV
+
+
+-
++Huurwoning
+  Huurwoning/Corporaties worstelen met verduurzaming woningvoorraad.pdf   |Worstelen Verduurzaming
+  Huurwoning/CV_ketel_huurders_wat-kan-je-zelf-wat-laat-je-doen.pdf       |VB wat mag met je CV
+
++Energie
+++Installatie
+  Energie/SluipVerbruik.pdf     |SluipVerbruik
+  Energie/Slimme Meter.pdf      |Slimme Meter Apps
+  https://www.homewizard.com/nl/p1-meter/   |Slimme Meter Life
+
+ +Eigen Energiebedrijf
+  Energie/Eigen EnergieBedrijf.pdf            |Eigen Energiebedrijf
+  Energie/Whitepaper Slim Energie Delen - Energie Samen.pdf        |Energie Gemeenschap dec-21
+  Energie/Webinar Slim Energie Delen.pptx                          |Energie Gemeenschap dec-21 (pptx)
+  Energie/Meerdere energiecontracten op een aansluitpunt.pdf       |Meerdere aansluitingen
+  Xhttps://www.trouw.nl/duurzaamheid-economie/we-gaan-zonnestroom-verkopen-aan-de-buren-met-dank-aan-brussel~b990f779/   |Vincent verkoopt stroom
+  #Energie/We gaan zonnestroom verkopen aan de buren, met dank aan Brussel.pdf                               |Vincent verkoopt stroom
+  Energie/NOM-woningen delen zelf opgewekte energie met de buren.pdf       |NOM delen Energie
+
+ +HAAS  Heating As A Service
+  https://haasheat.com/    |HAAS Heating As A Service
+  #Energie/Duurzaam wordt nu haalbaar en betaalbaar - HAASheat.pdf
+
+  https://haasheat.com/wp-content/uploads/2022/03/haasheat_-_heating_as_a_service_3-360p-1.mp4    |HAAS film
+
+  #https://www.duurzaam-beleggen.nl/2021/08/28/duurzame-doorbraak-hybride-warmtepompen-nu-als-variant-op-fietsplan/?utm_source=Portaal+Duurzaam+Financieel&utm_campaign=f53c630440-DuBel_Cons_EMAIL_CAMPAIGN&utm_medium=email&utm_term=0_cda11d0c06-f53c630440-281638929   |HAAS als fietsplan
+  Energie/Duurzame doorbraak_ hybride warmtepompen nu als variant op fietsplan - Duurzaam Financieel.pdf   |HAAS als fietsplan
+
+
+ +Energie Wet
+  Energie/Energiewet_nov21_toelichting.pdf    |E-wet nov-21 toelichting
+  Energie/Energiewet_nov_21_artikelsgewijs_toelichting.pdf |E-wet nov-21 toelichting art
+
+ +Distributie
+  #Energie/NetbeheerNL_Rapport-Bijlagen_A4_FC.pdf                   |E-Net 2030-2050
+  Energie/EnergyNL2050_implementation and verification-final-16 oktober2020_titel pagina update 19-02.pdf  |Carbon Free Energy System
+  Energie/energynl2050-refined-demand-and-generation-2050-final-v1-1-7juli2022.pdf                         |Carbon Free Energy System2
+  Energie/KIVI_EnergyNL2050(dec2017)NLsamenvatting.pdf                                                     |Carbon Free Energy System3
+  https://www.netbeheernederland.nl/_upload/Files/Het_net_slimmer_benut!_244.pdf    |Net slimmer benut
+
+ +Opwekking
+ ++Zonnepanelen
+  Zonnepanelen/ZonAtlas.pdf
+  https://www.zonatlas.nl/start/     |Dak Potentieel
+  Zonnepanelen/Zonnepanelen Vallen Uit.pdf        |Zonnepanelen vallen uit
+  https://www.netbeheernederland.nl/_upload/Files/Factsheet__258.pdf         |Tips bij uitval
+  https://www.netbeheernederland.nl/_upload/Files/Vereniging_Eigen_Huis_-_zonnepanelen__afschakelende_omvormers__tips_en_info_233.pdf  |Dringen op het stroomnet
+ +Houtstook
+  Verwarming/Houtstook, weet u er het fijne(stof) van     |Houtstook de waarheid
+ +KernEnergie
+  Energie/eRisk-Group_rapport_De-rol-van-kernenergie_20201202-1.pdf               |Rol van KernEnergie
+
+-
+ +Opslag
+ ++Accu
+   Opslag/Slimme thuisbatterij waarmee je straks geld kunt verdienen - Bouwproducten.pdf    |Sessy ThuisBatterij
+   Opslag/Praktijktest van een energieopslagsysteem.pdf                                     |PraktijkTest
+  +Waterstof
+
+
+-
+-
+
+
++ EnergieCafe M&M
+Xhttps://maasburen.nl/pagina/energiecafe  |Startpagina EnergieCafe
+Xhttps://maasburen.nl/berichten/maak-kennis-met-rolf-van-der-kemp-klimaatburgemeester-2022-voor-mook-en-middelaar  |Rolf klimaatburgermeester 22
+Xhttps://maasburen.nl/berichten/onze-energiecoaches   |Energie-Coaches
+Placemat
+Xhttps://maasburen.nl/berichten/gevelvloerdak-isolatie-kortingactie-verlengd-tot-en-met-30-juni-2021  |Actie Isolatie
+Xhttps://maasburen.nl/berichten/glasisolatie-kortingactie-verlengd-tot-en-met-31-december-2021  |Actie Glas Verbetering
+Xhttps://maasburen.nl/berichten/zonnepanelen-kortingactie-verlengd-tot-en-met-december-2021   |Actie Zonnepanelen
+https://us17.campaign-archive.com/?e=__test_email__&u=7a679dece95d11fb7ed9f9d78&id=699852dfa9  |  Email voucher 2021
+Xhttps://maasburen.nl/berichten/wat-zijn-onze-plannen-in-2021  |Plannen 2021
+https://maasburen.nl/files/maasburen.nl/uploads/files/717174/Zonnepanelen%20actie%202020.pdf | Zonnepaneel Presentatie 2020
+https://maasburen.nl/files/maasburen.nl/uploads/files/717174/20191031%20Informatiebijeenkomst%20Energiecafe%20over%20isolatie.pdf | Presentatie Isolatie 2019
+https://maasburen.nl/files/maasburen.nl/uploads/files/717174/20191031%20Duits%20Isolatie%20-%20Energiecafe%20Mook%20en%20Middelaar.pdf  | Presentatie Duits 2019
+
++ Woning Totaal
+
++ Installatie Ventilatie
+Ventilatie/Infiltratie en Ventilatie.pdf                            | Kieren en Ventilatie
+Ventilatie/Het effect van luchtdichtheid op ventilatiesystemen.pdf  | Luchtdichtheid en Ventilatie
+
+
++Subsidie en Lening
+Xhttps://www.verbeterjehuis.nl/energiesubsidiewijzer/  |Alle Subsidies
+Xhttps://www.limburg.nl/@1665/duurzaam-thuis/  | Lening Duurzaam-Thuis
+Xhttps://maasburen.nl/berichten/update-van-seeh-subsidie  |SEEH Subsidie
+
++Overheid
+Xhttps://www.milieucentraal.nl/  | MilieuCentraal
+https://www.duurzaamwonenplus.nl/mookenmiddelaar/  | Loket Duurzaam M&M
+https://www.duurzaammookenmiddelaar.nl/  |Duurzaam M&M
+Xhttps://www.tipmookenmiddelaar.nl/onderzoeksresultaten/07-08-2020/duurzaamheid | TIP Duurzaamheid M&M
+
+
++ Achtergrond Info
+Xhttp://www.olino.org/articles/2016/12/12/energie-besparen-en-duurzamer-leven-begint-bij-jezelf/  | Olino
+Xhttps://maasburen.nl/berichten/stichting-energie-cafe  | EnergieCafe als stichting
+https://maasburen.nl/files/maasburen.nl/uploads/files/717174/Statuten%20stichting%20Energiecaf%C3%A9%20Mook%20en%20Middelaar.pdf  | Statuten
+http://duurzaamhees.nl/  | Duurzaam Hees
+# https://maasburen.nl/berichten/energievoucher-voor-duurzame-woningeigenaren | Voucher okt-2020
+
++  Energieverbruik
+# https://stef-aap.github.io/Duurzaam/SlimmeMeter%20Programmas.pdf   | Slimme Meter
+Energie/Slimme Meter
+Xhttps://maasburen.nl/berichten/totale-elektriciteitsverbruik-sinds-2015-gestegen | Electriciteit 2010-2019
+Xhttps://maasburen.nl/berichten/zonne-energie-in-mook-en-middelaar-op-de-goede-weg-maar-in-2019-trager-dan-2018  | ZonneEnerge 2019
+
+
+
++ Tools
+  https://stef-aap.github.io/Duurzaam/Inzicht_Warmtelek.pdf      |Inzicht Warmtelek
+  https://stef-aap.github.io/Duurzaam/Inzicht_Warmtelek.xlsx     |Inzicht Warmtelek (XLSX)
+  https://stef-aap.github.io/Duurzaam/IWL_Voorbeeld_1.pdf        |IWL Voorbeeld 1
+  https://stef-aap.github.io/Duurzaam/IWL_Voorbeeld_2.pdf        |IWL Voorbeeld 2
+  https://stef-aap.github.io/Duurzaam/IWL_Voorbeeld_3.pdf        |IWL Voorbeeld 3
+  https://stef-aap.github.io/Duurzaam/IWL_Voorbeeld_4.pdf        |IWL Voorbeeld 4
+  https://stef-aap.github.io/Duurzaam/IWL_Voorbeeld_6.pdf        |IWL Voorbeeld 6
+  https://stef-aap.github.io/Duurzaam/Besparing_Middelweg94.pdf  |Besparing Woning 1988
+  https://bouw-energie.be/nl-be/bereken/warmteverliesberekening  |WarmteVerlies Woning (BE)
+  Verwarming/warmtestroom_2_warmteverliezenberekening_v2.2_waaienberg_door_steven_van_lier.xls  |Warmtestroom (XLS)
+
+
++Mook & Middelaat
+  MM/TNO-2022-P10653.pdf     |Energiearmoede Limburg
+  https://www.nmflimburg.nl/wp-content/uploads/sites/12/2020/01/NMFLimburg_Windmolenvisie_06122018.pdf  |NMF windmolenvisie 2018
+  https://www.newecoop.nl/wp-content/uploads/2019/04/190221-presentatie-NMF-Newecoop.pdf   |NMF ruimte duurzaamheid 2019
+  https://www.nmflimburg.nl/wp-content/uploads/sites/12/2020/02/NMFLimburg_Limburgs_energielandschap_2050_21102019.pdf  |NMF Energielandschap
+
++ RES
+# https://www.resnml.nl/media/2021-01/Samenvatting-ontwerp-RES-1.0.pdf  |RES 1.0 samenvatting
+RES Samenvatting
+Xhttps://maasburen.nl/berichten/waterenergie-biedt-beperkte-kansen-voor-mook-en-middelaar  | WaterEnergie
+
++ Historie
+Xhttps://maasburen.nl/berichten/de-electrificatie-van-mook-en-middelaar  |Electrificatie M&M deel 1
+Xhttps://maasburen.nl/berichten/electrificatie-van-mook-en-middelaar-deel-2  |Electrificatie M&M deel 2
+Xhttps://maasburen.nl/berichten/electrificatie-van-mook-en-middelaar-deel-3-eindelijk-licht-in-middelaar  |Electrificatie M&M deel 3
+Xhttps://maasburen.nl/berichten/alsnog-molenhoekse-carin-janssen-in-briljant-as-woensdagavond  | Carin Janssen
