@@ -10,6 +10,9 @@
   https://stef-aap.github.io/Duurzaam/Inzicht_Warmtelek.pdf            |Inzicht Warmtelek
   Xhttps://www.verbeterjehuis.nl/energiesubsidiewijzer/                |Alle Subsidies
   Energie/Energieleveranciers_terugleververgoeding_consumentenbond.pdf |Terugleververgoeding
+  Xhttps://spargeraete.de/                                              |Zuinige Apparatuur
+  Xhttps://daggegevens.knmi.nl/klimatologie/uurgegevens                 |KNMI uurgegevens
+  https://solar.lowtechmagazine.com/low-tech-solutions.html            |Low-Tech Solutions
 
 +Isolatie
   https://papagreen.org/tools/isolatiewaarden-in-lambda-rd-en-u-van-250-materialen/   |Isolatiewaarden op volgorde
@@ -18,6 +21,7 @@
   https://cdn.thehuddle-aws.com/uploads/tenants/3883/202202/160830-klimaatbewust-isoleren_climatedeal_e-book.pdf   |Climatedeal Checklist
   Woning_Totaal/Nieuwe ISSO publicaties warmteverliesberekening TM03 2018.pdf  |ISSO Warmteverlies
   Isolatie/DE CIRCULARITEITSPRESTATIE VAN ISOLATIEMATERIALEN.pdf   |Circulariteit Isolatie
+  Xhttps://www.pbl.nl/sites/default/files/downloads/pbl-2020-bepaling-energiebesparing-woningen-startanalyse-2020_4284.pdf    |Start Analyse
 
 
 ++Kierdichting
@@ -34,6 +38,8 @@
 
  +Glas en Kozijnen
  +Vloer Isolatie
+  https://www.woonwijzerwinkel.nl/oplossing/vloerisolatie/                        |Overzicht
+  https://www.debouwmarktshop.nl/bluedec-ondervloer-vloerverwarming?tag=Toebehoren&limit=75 |Isoleren vanaf boven
   https://www.bouwtotaal.nl/2021/01/warmteverlies-door-vloeren-zwaar-onderschat   |Vloerisolatie Onderschat
   https://www.renovatietotaal.nl/2022/05/09/praktijkonderzoek-naar-vloerverwarming-laat-belang-van-vloerisolatie-zien/  |Praktijk Onderzoek
 
@@ -48,9 +54,12 @@
 +Verwarming
 ++Warmtepomp
  ++Algemeen
+  Verwarming/Warmtepomp_l.kort_d.pptx             |Presentatie 2022 (PPTX)
+  Verwarming/Warmtepomp_l.kort_d.pdf              |Presentatie 2022
   Verwarming/Het-bepalen-van-vermogens-in-woning-ISSO.pdf       |ISSO Vermogensbepaling
   Verwarming/Nieuw collectief warmtepompsysteem voor wooncomplexen   |Collectieve Wamtepomp
   Verwarming/Remeha-webinar-Kennismaking-hybride-warmtepompen-20-april-2020  |Remha Hybride
+  https://www.warmtepompspot.nl/merk/                                        |Alle Merken
  +Houtstook
   Verwarming/Houtstook, weet u er het fijne(stof) van     |Houtstook de waarheid
  +Airco
@@ -64,7 +73,7 @@
  +Ventilatie Warmtepomp
   Xhttps://www.itecluchtreiniger.nl/keuzehulp/voor-thuis/lucht-verwarmen/gasloos-verwarmen-zonder-buitenunit   |Itec
   Xhttps://www.itecluchtreiniger.nl/rinnova-20-vertical-warmteterugwinning-warmtepomp         |2.0 Rinnova
-  Xhttps://www.itecluchtreiniger.nl/mitsubishi-vl-50-balansventilatie-met-warmteterugwinning  |Mitsubishi VL-50
+  Xhttps://www.itecluchtreiniger.nl/mitsubishi-vl-50-balansventilatie-met-warmteterugwinning  |https://www.vabi.nl/engineering/interne-warmteproductie-door-personen-in-vabi-elements/Mitsubishi VL-50
   Xhttps://www.itecluchtreiniger.nl/mitsubishi-vl-100-ventilatie-met-warmteterugwinning       |Mitsubishi VL-100
   Xhttps://www.itecluchtreiniger.nl/vents-micra-100-ventilatieunit-warmteterugwinning         |VENTS Micra 100 ERV
 
@@ -95,7 +104,7 @@
 
 -
 +Huurwoning
-  Huurwoning/Corporaties worstelen met verduurzaming woningvoorraad.pdf   |Worstelen Verduurzaming
+  https://www.vabi.nl/engineering/interne-warmteproductie-door-personen-in-vabi-elements/Huurwoning/Corporaties worstelen met verduurzaming woningvoorraad.pdf   |Worstelen Verduurzaming
   Huurwoning/CV_ketel_huurders_wat-kan-je-zelf-wat-laat-je-doen.pdf       |VB wat mag met je CV
 
 +Energie
@@ -110,7 +119,7 @@
   Energie/Webinar Slim Energie Delen.pptx                          |Energie Gemeenschap dec-21 (pptx)
   Energie/Meerdere energiecontracten op een aansluitpunt.pdf       |Meerdere aansluitingen
   Xhttps://www.trouw.nl/duurzaamheid-economie/we-gaan-zonnestroom-verkopen-aan-de-buren-met-dank-aan-brussel~b990f779/   |Vincent verkoopt stroom
-  #Energie/We gaan zonnestroom verkopen aan de buren, met dank aan Brussel.pdf                               |Vincent verkoopt stroom
+  https://www.vabi.nl/engineering/interne-warmteproductie-door-personen-in-vabi-elements/#Energie/We gaan zonnestroom verkopen aan de buren, met dank aan Brussel.pdf                               |Vincent verkoopt stroom
   Energie/NOM-woningen delen zelf opgewekte energie met de buren.pdf       |NOM delen Energie
 
  +HAAS  Heating As A Service
@@ -125,7 +134,7 @@
 
  +Energie Wet
   Energie/Energiewet_nov21_toelichting.pdf    |E-wet nov-21 toelichting
-  Energie/Energiewet_nov_21_artikelsgewijs_toelichting.pdf |E-wet nov-21 toelichting art
+  https://www.vabi.nl/engineering/interne-warmteproductie-door-personen-in-vabi-elements/Energie/Energiewet_nov_21_artikelsgewijs_toelichting.pdf |E-wet nov-21 toelichting art
 
  +Distributie
   #Energie/NetbeheerNL_Rapport-Bijlagen_A4_FC.pdf                   |E-Net 2030-2050
@@ -179,6 +188,7 @@ Ventilatie/Het effect van luchtdichtheid op ventilatiesystemen.pdf  | Luchtdicht
 Ventilatie/brochure-Mechanische-ventilatie-in-woningen.pdf   |LA Mechanische Ventilatie
 
 +Subsidie en Lening
+  Xhttps://www.mookenmiddelaar.nl/subsidie-afkoppelen-riolering   |Waterklaar
   Xhttps://www.verbeterjehuis.nl/energiesubsidiewijzer/  |Alle Subsidies
   Xhttps://www.limburg.nl/@1665/duurzaam-thuis/  | Lening Duurzaam-Thuis
   Xhttps://maasburen.nl/berichten/update-van-seeh-subsidie  |SEEH Subsidie
@@ -217,6 +227,8 @@ Xhttps://maasburen.nl/berichten/zonne-energie-in-mook-en-middelaar-op-de-goede-w
   https://stef-aap.github.io/Duurzaam/Besparing_Middelweg94.pdf  |Besparing Woning 1988
   https://bouw-energie.be/nl-be/bereken/warmteverliesberekening  |WarmteVerlies Woning (BE)
   Verwarming/warmtestroom_2_warmteverliezenberekening_v2.2_waaienberg_door_steven_van_lier.xls  |Warmtestroom (XLS)
+ https://open.isso.nl/publicatie/energievademecum-energiebewust-ontwerpen-van-nieuwbouwwoningen/2020   |Energie Vademecum 2020
+  https://klimapedia.nl/wp-content/uploads/2014/07/Bijlagen-E-VAD.pdf |Bouwfysische Begrippen
 
 
 +Mook & Middelaar
