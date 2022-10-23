@@ -54,8 +54,8 @@
 +Verwarming
 ++Warmtepomp
  ++Algemeen
-  Verwarming/Warmtepomp_l.kort_d.pptx             |Presentatie 2022 (PPTX)
   Verwarming/Warmtepomp_l.kort_d.pdf              |Presentatie 2022
+  Verwarming/Warmtepomp_l.kort_d.pptx             |Presentatie 2022 (PPTX)
   Verwarming/Het-bepalen-van-vermogens-in-woning-ISSO.pdf       |ISSO Vermogensbepaling
   Verwarming/Nieuw collectief warmtepompsysteem voor wooncomplexen   |Collectieve Wamtepomp
   Verwarming/Remeha-webinar-Kennismaking-hybride-warmtepompen-20-april-2020  |Remha Hybride
@@ -183,9 +183,10 @@ https://maasburen.nl/files/maasburen.nl/uploads/files/717174/20191031%20Duits%20
 + Woning Totaal
 
 + Installatie Ventilatie
-Ventilatie/Infiltratie en Ventilatie.pdf                            | Kieren en Ventilatie
-Ventilatie/Het effect van luchtdichtheid op ventilatiesystemen.pdf  | Luchtdichtheid en Ventilatie
-Ventilatie/brochure-Mechanische-ventilatie-in-woningen.pdf   |LA Mechanische Ventilatie
+  Ventilatie/Infiltratie en Ventilatie.pdf                            | Kieren en Ventilatie
+  Ventilatie/Het effect van luchtdichtheid op ventilatiesystemen.pdf  | Luchtdichtheid en Ventilatie
+  Ventilatie/brochure-Mechanische-ventilatie-in-woningen.pdf   |LA Mechanische Ventilatie
+  https://www.gezondenenergiezuinig.nl/                        |Webtest Gezond wonen
 
 +Subsidie en Lening
   Xhttps://www.mookenmiddelaar.nl/subsidie-afkoppelen-riolering   |Waterklaar
@@ -227,9 +228,24 @@ Xhttps://maasburen.nl/berichten/zonne-energie-in-mook-en-middelaar-op-de-goede-w
   https://stef-aap.github.io/Duurzaam/Besparing_Middelweg94.pdf  |Besparing Woning 1988
   https://bouw-energie.be/nl-be/bereken/warmteverliesberekening  |WarmteVerlies Woning (BE)
   Verwarming/warmtestroom_2_warmteverliezenberekening_v2.2_waaienberg_door_steven_van_lier.xls  |Warmtestroom (XLS)
- https://open.isso.nl/publicatie/energievademecum-energiebewust-ontwerpen-van-nieuwbouwwoningen/2020   |Energie Vademecum 2020
-  https://klimapedia.nl/wp-content/uploads/2014/07/Bijlagen-E-VAD.pdf |Bouwfysische Begrippen
-
+  #https://klimapedia.nl/publicaties/energievademecum       |Energie Vademecum 2020
+  Energie/Energie-Vademecum-2020_200605.pdf        |Energie Vademecum 2020
+++Energie Vademecum split
+  Energie/Colofon-en-Introductie-E-VAD-2020.pdf    |Introductie
+  Energie/Inhoud-E-VAD-2020.pdf                    |Inhoud
+  Energie/H1-Energieverbruik.pdf                   |Energie Verbruik
+  Energie/H2-Energiebeleid.pdf                     |Energie Beleid
+  Energie/H3-Energiebewust-ontwerpen.pdf           |Energiebewust Ontwerpen
+  Energie/H4-Ruimtelijk-ontwerp.pdf                |Ruimetelijk Ontwerp
+  Energie/H5-Bouwkundige-elementen-woningschil.pdf |Bouwkundige Elementen
+  Energie/H6-Ventilatie.pdf                        |Ventilatie
+  Energie/H7-Ruimteverwarming.pdf                  |Ruimte Verwarming
+  Energie/H8-Koeling.pdf                           |Koeling
+  Energie/H9-Warmtapwater                          |Warm Tapwater
+  Energie/H10-Electriciteit                        |Elektriciteit
+  Energie/Bijlagen-E-VAD.pdf                       |Bijlagen
+  Energie/Literatuurlijst-E-VAD-2020.pdf           |Literatuurlijst
+-
 
 +Mook & Middelaar
   MM/TNO-2022-P10653.pdf     |Energiearmoede Limburg
