@@ -8,6 +8,7 @@
   https://energieverbruikberekenen.com/gemiddeld-energieverbruik/      |Gemiddeld Verbruik
   https://www.zonatlas.nl/start/                                       |Dak Potentieel
   https://stef-aap.github.io/Duurzaam/Inzicht_Warmtelek.pdf            |Inzicht Warmtelek
+  https://www.atriensis.nl/nieuwsbericht-data/impact-rekenmethode-nta-8800-op-corporaties  |Energie Label
   Xhttps://www.verbeterjehuis.nl/energiesubsidiewijzer/                |Alle Subsidies
   Energie/Energieleveranciers_terugleververgoeding_consumentenbond.pdf |Terugleververgoeding
   Xhttps://spargeraete.de/                                              |Zuinige Apparatuur
@@ -82,6 +83,13 @@
   https://sargasso.nl/infraroodverwarming-effectiefste-weg-naar-aardgasvrij/   |IR aardgasvrij
   https://krispijnbeek.nl/2021/11/27/dik-2-jaar-met-infraroodverwarming/       |2 jaar ervaring
   https://sargasso.nl/dagtegengas-in-4-etappes-etappe-2-verwarmen-met-infraroodverwarming/  |Etappe 2
+
+  https://www.dwa.nl/wp-content/uploads/17164PHEI1704071-Aardgasvrije-warmteconcepten-en-IR-panelen-180918.pdf  |Onderzoek DWA
+  https://naturenergie-waerme.ch/wp-content/uploads/2022/02/KN-TU-Kaiserslautern-Abschlussbericht_Forschungsprojekt_IR-Bau-010222.pdf  |Onderzoek Duitsland
+  #https://www.redwellinfraroodverwarming.nl/files/onderzoeksproject-ir-bau-nl---redwell-infrarood-verwarming.pdf   |NL Samenvatting
+  Verwarming/onderzoeksproject-ir-bau-nl---redwell-infrarood-verwarming.pdf  |NL Samenvatting
+  https://www.maxxinno.nl/energieverbruik   |Maxxinno
+
  +CV ketel
   Verwarming/Warmwater verschillen bij CW5-ketels steeds groter   |CW5 verschillen
 
@@ -94,12 +102,19 @@
 
 
 +Ventilatie
-++Ventilatie Warmtepomp
+++ Algemeen
+  Ventilatie/Infiltratie en Ventilatie.pdf                            | Kieren en Ventilatie
+  Ventilatie/Het effect van luchtdichtheid op ventilatiesystemen.pdf  | Luchtdichtheid en Ventilatie
+  Ventilatie/brochure-Mechanische-ventilatie-in-woningen.pdf   |LA Mechanische Ventilatie
+  Xhttps://www.gezondenenergiezuinig.nl/                       |Webtest Gezond wonen
+ +Decentraal WTW
   Xhttps://www.itecluchtreiniger.nl/keuzehulp/voor-thuis/lucht-verwarmen/gasloos-verwarmen-zonder-buitenunit   |Itec
-  Xhttps://www.itecluchtreiniger.nl/rinnova-20-vertical-warmteterugwinning-warmtepomp         |2.0 Rinnova
   Xhttps://www.itecluchtreiniger.nl/mitsubishi-vl-50-balansventilatie-met-warmteterugwinning  |Mitsubishi VL-50
   Xhttps://www.itecluchtreiniger.nl/mitsubishi-vl-100-ventilatie-met-warmteterugwinning       |Mitsubishi VL-100
   Xhttps://www.itecluchtreiniger.nl/vents-micra-100-ventilatieunit-warmteterugwinning         |VENTS Micra 100 ERV
+ +Ventilatie Warmtepomp
+  Xhttps://www.itecluchtreiniger.nl/rinnova-20-vertical-warmteterugwinning-warmtepomp         |2.0 Rinnova
+
 
 
 -
@@ -181,12 +196,6 @@ https://maasburen.nl/files/maasburen.nl/uploads/files/717174/Zonnepanelen%20acti
 https://maasburen.nl/files/maasburen.nl/uploads/files/717174/20191031%20Informatiebijeenkomst%20Energiecafe%20over%20isolatie.pdf | Presentatie Isolatie 2019
 https://maasburen.nl/files/maasburen.nl/uploads/files/717174/20191031%20Duits%20Isolatie%20-%20Energiecafe%20Mook%20en%20Middelaar.pdf  | Presentatie Duits 2019
 + Woning Totaal
-
-+ Installatie Ventilatie
-  Ventilatie/Infiltratie en Ventilatie.pdf                            | Kieren en Ventilatie
-  Ventilatie/Het effect van luchtdichtheid op ventilatiesystemen.pdf  | Luchtdichtheid en Ventilatie
-  Ventilatie/brochure-Mechanische-ventilatie-in-woningen.pdf   |LA Mechanische Ventilatie
-  https://www.gezondenenergiezuinig.nl/                        |Webtest Gezond wonen
 
 +Subsidie en Lening
   Xhttps://www.mookenmiddelaar.nl/subsidie-afkoppelen-riolering   |Waterklaar
