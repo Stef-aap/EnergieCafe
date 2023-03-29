@@ -11,9 +11,21 @@
   https://www.atriensis.nl/nieuwsbericht-data/impact-rekenmethode-nta-8800-op-corporaties  |Energie Label
   Xhttps://www.verbeterjehuis.nl/energiesubsidiewijzer/                |Alle Subsidies
   Energie/Energieleveranciers_terugleververgoeding_consumentenbond.pdf |Terugleververgoeding
-  Xhttps://spargeraete.de/                                              |Zuinige Apparatuur
-  Xhttps://daggegevens.knmi.nl/klimatologie/uurgegevens                 |KNMI uurgegevens
+
+  https://klimaatmonitor.databank.nl/jive                              |Klimaatmonitor
+  Xhttps://opendata.cbs.nl/statline/portal.html?_la=nl&_catalog=CBS    |CBS Open Data
+  Xhttps://daggegevens.knmi.nl/klimatologie/uurgegevens                |KNMI uurgegevens
+  Xhttps://www.waarstaatjegemeente.nl/dashboard/dashboard/energietransitie  |EnergieTransistie
+  Xhttps://spargeraete.de/                                             |Zuinige Apparatuur
   https://solar.lowtechmagazine.com/low-tech-solutions.html            |Low-Tech Solutions
++Actueel
+  Warmtebeeld_Interpretatie_i.pdf   | Warmtebeeld.pdf
+  Warmtebeeld_Interpretatie_i.pptx  | Warmtebeeld.pptx
+  Xhttps://energiecafemm.sharepoint.com/:w:/s/EnergiecafMookenMiddelaar/Efwo5WzuoTRDpYBmiRt7epABg1DfX9ZsKfZvdNqN210I9Q?e=ypfUvf   | Energiegesprek
+  Xhttps://energiecafemm.sharepoint.com/:x:/s/EnergiecafMookenMiddelaar/Efx0RWPesTRLiD9sSqB8BCcBvVQ8zfY8ULfOlXzJ_4luUg?e=D5Ghea   | Inzicht Warmtelek V08
+  Xhttps://energiecafemm.sharepoint.com/:x:/s/EnergiecafMookenMiddelaar/Efdr3JLmdmBArVtHjbwsvwwBmdFOFgs2mcALl5UqTCESTA?e=0CoZ2u   | Rekenvoorbeelden
+  Xhttps://energiecafemm.sharepoint.com/:w:/s/EnergiecafMookenMiddelaar/Eauvthdd2dhFhuPBVw0oPKYBiVdXlGOlyjgT6NxBSufG9w?e=ouaqEk   | Start Notitie
+  https://klimapedia.nl/publicaties/2-waar-te-beginnen-met-isoleren-en-hoe-zwaar/          | Isoleren hoe zwaar
 
 +Isolatie
   https://papagreen.org/tools/isolatiewaarden-in-lambda-rd-en-u-van-250-materialen/   |Isolatiewaarden op volgorde
@@ -195,8 +207,20 @@ Xhttps://maasburen.nl/berichten/wat-zijn-onze-plannen-in-2021  |Plannen 2021
 https://maasburen.nl/files/maasburen.nl/uploads/files/717174/Zonnepanelen%20actie%202020.pdf | Zonnepaneel Presentatie 2020
 https://maasburen.nl/files/maasburen.nl/uploads/files/717174/20191031%20Informatiebijeenkomst%20Energiecafe%20over%20isolatie.pdf | Presentatie Isolatie 2019
 https://maasburen.nl/files/maasburen.nl/uploads/files/717174/20191031%20Duits%20Isolatie%20-%20Energiecafe%20Mook%20en%20Middelaar.pdf  | Presentatie Duits 2019
-+ Woning Totaal
+++Presentaties
+https://maasburen.nl/files/maasburen.nl/uploads/files/734477/presentatie%20isolatie%20energiecafe%2015aug22.pdf           |Isolatie 15-9-22
+https://maasburen.nl/files/maasburen.nl/uploads/files/734477/Kierdichting%20en%20ventilatie%20vs%2012sep22.pdf      |Kieren en Ventilatie
+https://maasburen.nl/files/maasburen.nl/uploads/files/734477/zonnepanelen%20met%20co-operatie%20Stroom%20van%20hier%20thema%20avond%2015sep22%20twee.pdf  |Zonnepanelen 15-9-22
+https://maasburen.nl/files/maasburen.nl/uploads/files/734477/Warmtepompen%20_l.kort%20overzicht_d.pdf        |Warmtepompen  15-9-22
+https://maasburen.nl/files/maasburen.nl/uploads/files/734477/50-Graden-Test%20om%20gas%20te%20besparen.pdf       |50 graden test
+https://maasburen.nl/files/maasburen.nl/uploads/files/734477/20%20procent%20besparen%20zonder%20een%20cent%20uit%20te%20geven.pdf   |20% Besparen  15-9-22
+https://maasburen.nl/files/maasburen.nl/uploads/files/734477/transitie%20visie%20warmte%20voor%2015sep22%20vs%203%2014sep22.pdf   |TransitieVisie  15-9-22
+https://maasburen.nl/files/maasburen.nl/uploads/files/734477/Subsidies%20en%20leningen%20voor%20verduurzamen%20van%20de%20woning.pdf  |Subsidies  15-9-22
 
+
+
+
+-
 +Subsidie en Lening
   Xhttps://www.mookenmiddelaar.nl/subsidie-afkoppelen-riolering   |Waterklaar
   Xhttps://www.verbeterjehuis.nl/energiesubsidiewijzer/  |Alle Subsidies
